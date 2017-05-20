@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3E5DEDC9-48D4-42A1-9A9A-9B1369F9D069}|Default">
+  <MonoDevelop.Ide.ItemProperties.LetsCalc PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EF2CC3CE-3141-454C-A899-0E21A815680D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetsCalc/ViewController.cs">
+    <Files>
+      <File FileName="LetsCalc/ViewController.cs" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
